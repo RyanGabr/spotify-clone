@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+* {
+    font-family: "Circular Spotify Text";
+}
+
+.bgimage{
+    background-image: url('../public/wallpaper-macos.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
